@@ -1,0 +1,12 @@
+.venv/
+.venv-1/
+.git/
+.env
+.env.*
+!.env.example
+.pytest_cache/
+__pycache__/
+*.py[cod]
+frontend/node_modules/
+frontend/dist/
+data/
